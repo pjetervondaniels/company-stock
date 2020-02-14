@@ -3,7 +3,7 @@
 ## Objetivos
 
 - Aplicar diretamente o conhecimento de Programação Orientação a Objetos, Programação Funcional e os frameworks JavaFX (Interface visual) e JDBC (Usando um Banco de dados SQL).
-- Solidificar o conhecimento desenvolvendo uma aplicação desktop. 
+- Solidificar o conhecimento desenvolvendo uma aplicação desktop de uma loja. 
 
 
 ## Checklist do projeto:
