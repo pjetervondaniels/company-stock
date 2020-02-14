@@ -32,3 +32,6 @@
 - [x] TextField & DatePicker ;
 - [x] Department ComboBox  ; 
 - [x] Saving Seller  ; 
+
+## Visual final do projeto 
+![](https://i.imgur.com/64p1FTb.png)
