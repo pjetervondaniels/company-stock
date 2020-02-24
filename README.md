@@ -34,4 +34,4 @@
 - [x] Saving Seller
 
 ## Final look of the project
-! [] (https://i.imgur.com/64p1FTb.png)
+![](https://i.imgur.com/64p1FTb.png)
