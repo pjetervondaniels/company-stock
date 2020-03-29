@@ -1,12 +1,11 @@
-# Projeto JavaFX com JDBC
+# Project: Desktop stock controller made with javaFX and JDBC
 
-## Objetivos
+## Objective
+Directly apply knowledge of Object Oriented Programming, Functional Programming and the JavaFX (Visual Interface) and JDBC (Using an SQL Database) frameworks.
+Solidify knowledge by developing a store desktop application.
 
-- Aplicar diretamente o conhecimento de Programação Orientação a Objetos, Programação Funcional e os frameworks JavaFX (Interface visual) e JDBC (Usando um Banco de dados SQL).
-- Solidificar o conhecimento desenvolvendo uma aplicação desktop de uma loja. 
 
-
-## Checklist do projeto:
+## Project Checklist:
 
 - [x] Local project created 
 - [x] Main view 
@@ -33,5 +32,5 @@
 - [x] Department ComboBox  
 - [x] Saving Seller  
 
-## Visual final do projeto 
+## Final look of the project
 ![](https://i.imgur.com/64p1FTb.png)
