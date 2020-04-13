@@ -1,4 +1,3 @@
-# Desktop stock controller made with javaFX and JDBC
 
 ## Objective
 Directly apply knowledge of Object Oriented Programming, Functional Programming and the JavaFX (Visual Interface) and JDBC (Using an SQL Database) frameworks.
