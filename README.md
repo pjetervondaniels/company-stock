@@ -1,3 +1,6 @@
+## Final look of the project
+![](https://i.imgur.com/64p1FTb.png)
+
 
 ## Objective
 Directly apply knowledge of Object Oriented Programming, Functional Programming and the JavaFX (Visual Interface) and JDBC (Using an SQL Database) frameworks.
@@ -31,5 +34,4 @@ Solidify knowledge by developing a store desktop application.
 - [x] Department ComboBox  
 - [x] Saving Seller  
 
-## Final look of the project
-![](https://i.imgur.com/64p1FTb.png)
+
